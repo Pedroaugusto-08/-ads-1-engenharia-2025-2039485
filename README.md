@@ -26,7 +26,7 @@ As principais cerimônias do Scrum são: Refinamento do backlog do produto, etap
 O kanban é uma metodologia, em formato de cartões, de gestão de trabalho visual, que tem a finalidade de organizar o fluxo de tarefas e aumentar a eficiência; ele é aplicado em equipes de desenvolvimento ágil e software, em locais de manufatura e fabricação e até em locais particulares de trabalhos pessoais ou locais corporativos.
 
 ## 🚀 Extreme Programming (XP)  
-Os princípios dessa metodologia são: a comunicação, clara e constante entre todos os indivíduos; a simplpicidade, somente o necessário e as modificações pro futuro; o feedback constante para o cliente; a coragem em tomar decisões difíceis e o respeito com todos e todas as opiniões viáveis.
+Os princípios dessa metodologia são: a comunicação, clara e constante entre todos os indivíduos; a simplpicidade, somente o necessário e as modificações para o futuro; o feedback constante para o cliente; a coragem em tomar decisões difíceis e o respeito com todos e todas as opiniões viáveis.
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
